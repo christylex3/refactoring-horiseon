@@ -9,14 +9,12 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
-/* Removed color: #ffffff */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
 }
 
-/* Simplified header h1 to h1*/
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -84,7 +82,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefitsInfo {
+.benefits-info {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -94,7 +92,7 @@ h3 {
     text-align: center;
 }
 
-.benefit-img {
+.benefits-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
