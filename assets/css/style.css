@@ -1,3 +1,4 @@
+/* Zig zag layout */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -66,13 +67,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+#content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -98,7 +99,7 @@ h3 {
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.content-info {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
